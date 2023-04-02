@@ -1,7 +1,7 @@
 import css from "bootstrap/dist/css/bootstrap.min.css";
 import axios from "axios";
 
-function main() {
+const main = () => {
   const baseUrl = "https://api.themoviedb.org/3";
   const api_key = "766bd5e76ce1c582738f7b124d8c7e49";
 
