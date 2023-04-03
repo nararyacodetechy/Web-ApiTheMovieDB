@@ -56,6 +56,6 @@ const main = () => {
   document.addEventListener("DOMContentLoaded", () => {
     getMovies();
   });
-}
+};
 
 export default main;
